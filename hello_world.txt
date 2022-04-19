@@ -1,2 +1,4 @@
 Hello World!
 This is my first GitHub repo!
+
+Testing using VSCode as commit message editor
